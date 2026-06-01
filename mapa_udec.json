@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "id": "puesto_1" }, "geometry": { "type": "Point", "coordinates": [-73.034975, -36.8326233] } },
+    { "type": "Feature", "properties": { "id": "puesto_2" }, "geometry": { "type": "Point", "coordinates": [-73.0350747, -36.8326813] } },
+    { "type": "Feature", "properties": { "id": "puesto_3" }, "geometry": { "type": "Point", "coordinates": [-73.0350512, -36.8326896] } },
+    { "type": "Feature", "properties": { "id": "puesto_4" }, "geometry": { "type": "Point", "coordinates": [-73.0350291, -36.8326988] } },
+    { "type": "Feature", "properties": { "id": "puesto_5" }, "geometry": { "type": "Point", "coordinates": [-73.0340045, -36.8327174] } },
+    { "type": "Feature", "properties": { "id": "puesto_6" }, "geometry": { "type": "Point", "coordinates": [-73.0349776, -36.8327329] } },
+    { "type": "Feature", "properties": { "id": "puesto_7" }, "geometry": { "type": "Point", "coordinates": [-73.0349625, -36.8327449] } },
+    { "type": "Feature", "properties": { "id": "puesto_8" }, "geometry": { "type": "Point", "coordinates": [-73.0349365, -36.8327601] } },
+    { "type": "Feature", "properties": { "id": "puesto_9" }, "geometry": { "type": "Point", "coordinates": [-73.0349556, -36.8326161] } },
+    { "type": "Feature", "properties": { "id": "puesto_10" }, "geometry": { "type": "Point", "coordinates": [-73.0349307, -36.8326014] } },
+    { "type": "Feature", "properties": { "id": "puesto_11" }, "geometry": { "type": "Point", "coordinates": [-73.0348984, -36.8325982] } },
+    { "type": "Feature", "properties": { "id": "puesto_12" }, "geometry": { "type": "Point", "coordinates": [-73.0348745, -36.8325898] } }
+  ]
+}
